@@ -1,0 +1,12 @@
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\bin\Debug\netcoreapp3.1\OrdersAPI.Data.dll
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\obj\Debug\netcoreapp3.1\OrdersAPI.Business.csprojAssemblyReference.cache
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\obj\Debug\netcoreapp3.1\OrdersAPI.Business.AssemblyInfoInputs.cache
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\obj\Debug\netcoreapp3.1\OrdersAPI.Business.AssemblyInfo.cs
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\bin\Debug\netcoreapp3.1\OrdersAPI.Business.deps.json
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\bin\Debug\netcoreapp3.1\OrdersAPI.Business.dll
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\bin\Debug\netcoreapp3.1\OrdersAPI.Business.pdb
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\bin\Debug\netcoreapp3.1\OrdersAPI.Data.pdb
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\obj\Debug\netcoreapp3.1\OrdersAPI.Business.csproj.CopyComplete
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\obj\Debug\netcoreapp3.1\OrdersAPI.Business.dll
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\obj\Debug\netcoreapp3.1\OrdersAPI.Business.pdb
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Business\obj\Debug\netcoreapp3.1\OrdersAPI.Business.csproj.CoreCompileInputs.cache

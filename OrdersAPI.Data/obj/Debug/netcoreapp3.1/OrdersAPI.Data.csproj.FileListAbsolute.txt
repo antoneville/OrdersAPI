@@ -1,0 +1,9 @@
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\bin\Debug\netcoreapp3.1\OrdersAPI.Data.deps.json
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\bin\Debug\netcoreapp3.1\OrdersAPI.Data.dll
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\obj\Debug\netcoreapp3.1\OrdersAPI.Data.csprojAssemblyReference.cache
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\obj\Debug\netcoreapp3.1\OrdersAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\obj\Debug\netcoreapp3.1\OrdersAPI.Data.AssemblyInfo.cs
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\bin\Debug\netcoreapp3.1\OrdersAPI.Data.pdb
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\obj\Debug\netcoreapp3.1\OrdersAPI.Data.dll
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\obj\Debug\netcoreapp3.1\OrdersAPI.Data.pdb
+C:\Users\Anthony Neville\source\repos\OrdersAPI\OrdersAPI.Data\obj\Debug\netcoreapp3.1\OrdersAPI.Data.csproj.CoreCompileInputs.cache
